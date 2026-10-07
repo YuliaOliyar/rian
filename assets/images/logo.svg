@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 88" role="img" aria-labelledby="title desc">
+  <title id="title">RIA Wiadomości Polska</title>
+  <desc id="desc">Biały znak słowny RIA Wiadomości Polska z ciepłymi czerwonymi łukami</desc>
+  <g fill="none" stroke="#ffcfbe" stroke-width="5" stroke-linecap="round">
+    <path d="M10 22c-9 13-9 31 0 44"/><path d="M21 28c-6 9-6 23 0 32"/><path d="M31 34c-4 5-4 15 0 20"/>
+  </g>
+  <text x="44" y="63" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="900" letter-spacing="-3" textLength="112" lengthAdjust="spacingAndGlyphs">RIA</text>
+  <text x="168" y="62" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="900" letter-spacing="-2" textLength="290" lengthAdjust="spacingAndGlyphs">WIADOMOŚCI</text>
+  <text x="472" y="61" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="300" letter-spacing="-1" textLength="142" lengthAdjust="spacingAndGlyphs">POLSKA</text>
+</svg>
